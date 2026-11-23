@@ -1,0 +1,117 @@
+{
+  "Adirondack-perfect": {
+    "im0.png": "b322bad57398336a2730ad4363b267dff2324adcdf0b8aef2a01f931aeaf5ab9",
+    "im1.png": "aeacdae282f68f20ea7175640e061ecddab686886b4a43fe5d4eff255f27beaa",
+    "calib.txt": "eface1c113178399b8fc62470244cf4baea03a41304fc55ade487505e31604fe"
+  },
+  "Backpack-perfect": {
+    "im0.png": "fd00169921e7787121da1de060baeff1364e115d8489fb21700f26c368016352",
+    "im1.png": "19ce5314686f1af7e84db27e69e6f43bb77507c42b33cb5a5205ebcab01be114",
+    "calib.txt": "c9a14bfc483ed50f0af703c0d0d0d79ad389990e5b27ca7dab9cea5012fe663f"
+  },
+  "Bicycle1-perfect": {
+    "im0.png": "7eaf9f6a9d8c93d28f9b084cd20cc13de4f41b171e3c37e33547f55f6d0b191b",
+    "im1.png": "a5944ac036f4fd1910f9501267c12b84fcca9255ee81f3c48e812bae23d8cbe3",
+    "calib.txt": "d47198449a157672086cf8991eadeb41e365fe4c5fe27000e8a7b1b9caa27421"
+  },
+  "Cable-perfect": {
+    "im0.png": "3d84c5a1e50bf35925fd86820440de08993d569b71b36c16a633992a8dc4f706",
+    "im1.png": "8d258f5e14a46246f20833c8b3a04ce2142c9b76b7e24c8039a1e76a4e5c2348",
+    "calib.txt": "84bbfe044ff105c6799fbdc4937554106203b358488839f07e2c7a90c7ccb9fd"
+  },
+  "Classroom1-perfect": {
+    "im0.png": "153d11f8d14d2483380c6328827c2191066f1a55e0905e31bbec4e24bb5502f6",
+    "im1.png": "d5aa7aa9d273a4d415f327792664e958f902058341dbaa5b7b11adf487c0e623",
+    "calib.txt": "149e8fda2fdea11b3f19911137a608990b355c60d6ee5ae90df250237360e225"
+  },
+  "Couch-perfect": {
+    "im0.png": "843b32e3f30d4d1dbfcd745099df2c3fa942fed75bedabc9d32a3b3d1c3e0432",
+    "im1.png": "4d9ab4224e250278de16e0e47b950fcfa8371ce97c3e6bc03b475c2619bd8a96",
+    "calib.txt": "5b2758e944fbe6f5f8601550db15619281096f7994be6481e3abfafbb78eab83"
+  },
+  "Flowers-perfect": {
+    "im0.png": "d9d7eebeeb16394a1e6c82a8310a86cfb8f207275a9237b168d258c76381c564",
+    "im1.png": "cb709f07ed365520e7bb78c0cc7734e61dedcabd7d39ac65836072e950ca9eea",
+    "calib.txt": "2559a708a25e05ddc5024c3088892aec7a3f3fbf49fadfb0ed6684582e6fb15e"
+  },
+  "Jadeplant-perfect": {
+    "im0.png": "cf89b6da3f1b21763e2b58653319cf34a186d595b5a87efff6c51d5162fd649d",
+    "im1.png": "3a676b24b781fb23c8592c249fccd73d703b673d338fa1311a43f3c7d1a25a51",
+    "calib.txt": "e3126eb5d28a92e865ead5af200b7fca4a60aa7ff9968113ff8aec80d3470bb1"
+  },
+  "Mask-perfect": {
+    "im0.png": "2008f0d202bda02825e2a54b9d2161ea1567e2f126cb8db4a4f9ab8bd2da4430",
+    "im1.png": "7cfe86f3d3192782e72306748da4c3a725a676ed3e73b517aa2a2cc5d49308a8",
+    "calib.txt": "10daa7b4454713871995de4046643be21b2e2de3630f40fac423cd05b244973a"
+  },
+  "Motorcycle-perfect": {
+    "im0.png": "caed0f8d075dd962c3720b134c6684f3b8e0cbd621c608c626093c6427b08edf",
+    "im1.png": "3202c23bdab212b31f4f6505607f0d539a8bdf59fc20ea85cc2b5a43012ac3c0",
+    "calib.txt": "04ad21246ac7beb81fd7d8d9ad908da855f89c0818dcd90461d6d3a50f96d48b"
+  },
+  "Piano-perfect": {
+    "im0.png": "78cb8443ff3f7b23967f10c4253c3dcc56a96b75572e450e09150f2893bea2ea",
+    "im1.png": "b0eefcb015e7914ea18b6e973a5930794b0b2339d24a831d60312395b32b21bf",
+    "calib.txt": "e9a1f7990c912fa7fe8ec766157ce96b2f024e5054dfc6d913d39f65bd5fe63b"
+  },
+  "Pipes-perfect": {
+    "im0.png": "403b40f6575cc576ab11a94a90453d388182ca195cc9e4067462e432aaa0be2c",
+    "im1.png": "735a59cc6e1259694d980fa4135d8a7e00b88d39390a279a438249e27c3df23a",
+    "calib.txt": "facbb4986b41bf8d08b11b379d85420c44d870614163bcbccc5e91000823e1f2"
+  },
+  "Playroom-perfect": {
+    "im0.png": "4bd87407731b9e1e91177fc990f24c82bcd447e4922d2838b46c18dfb98f02c4",
+    "im1.png": "6d66e711a85ce6889d711ba1df40d2127466f33e2675e7f5883aaa77a2b0becb",
+    "calib.txt": "2324add4663411f5a27c73baafa8e76d2c5bcd9c36b9ee96e587ef875e270103"
+  },
+  "Playtable-perfect": {
+    "im0.png": "e30fb1151b31203aa46c193581f556370f349f5dc72e24625c46d9ebff421e03",
+    "im1.png": "1499c3f332737f1e6b37546029b293a52a25fbec04ea4f7375a5c1fbc948c0f3",
+    "calib.txt": "8fd3f4379ee8eba2d4b4fa0bacfc6e74a6a8c9384a41829d1c76870e9ff95e12"
+  },
+  "Recycle-perfect": {
+    "im0.png": "6b15f531750bec3a8845c3048c055e4d797bd652d24da49d4943244c7785c285",
+    "im1.png": "0024b80d62676d26b951b148637891a8dee24b3d700e952fbbbc39687346765f",
+    "calib.txt": "95791f58828918e68ebef1378b0911fede0d1cfd839387e803707f9a7ead03e7"
+  },
+  "Shelves-perfect": {
+    "im0.png": "3c8b49478e04f19e5b3ae7e81c69ae4f3773fba3d30b05ac85deb21584712d0f",
+    "im1.png": "c744ebc8c6870744dd73094c50761290ea97270d28c88dd2ad7d2d4c317a8382",
+    "calib.txt": "c955f6148e45b23fc518d552ed1c97b43f5cdf9135c6db037f314cef0ad61bad"
+  },
+  "Shopvac-perfect": {
+    "im0.png": "7290a612b829c2c9961a9bf0ee62a16d5e745c28f1acb1f2492c80b96f667c7c",
+    "im1.png": "61b5b36e2432c15dae61668cf113723b68d70c1253d45ca88db5d3a03fc4a314",
+    "calib.txt": "0573717848d9286d9f4b37c05b49e26787b11c5b83c51e96b507464f2eb1b3a2"
+  },
+  "Sticks-perfect": {
+    "im0.png": "ef16f4b1d8b54c35b86bdd3191a3910cfc1d1faa5aad3073b46dbce566c87206",
+    "im1.png": "5c738a52b77e9b5c36959a44bd51c1cc0874c6eaf85683f726c69f31641e2ab7",
+    "calib.txt": "e81c10145ec8259c150ec6a9767ae75e72d4df4187f4d90f3dfa711f2b498a17"
+  },
+  "Storage-perfect": {
+    "im0.png": "84ea5cda5af9ce5e520ce38a8397f17e30061487f740a620ff7e20b0a5dda55a",
+    "im1.png": "00bad3495b13e0f30462ce7856399bdd60ef072c5419d6245dbdb9760c6291ee",
+    "calib.txt": "aaf4426dacfb5790bdff2a790518389b26d6f403ba08586e9a795739a324a2a4"
+  },
+  "Sword1-perfect": {
+    "im0.png": "7d258af9e4850bbb715d58fad680a3306fa64ef6aa3ba62aa3053f9c117aec1d",
+    "im1.png": "6abb2736a7260b11352fda377aeffdc19b112ec1f52220783ada91ccbca09a70",
+    "calib.txt": "e5daadc342fd42e63fd97a0e0c191786802d0ebac1821df9a9709b50070de386"
+  },
+  "Sword2-perfect": {
+    "im0.png": "19b43032b0550d586a5c37411ab1c0e3f522f48284a2e4f2eb57be4c58c32285",
+    "im1.png": "25bc2d58caf19c9b3a336625dec6b32029382b5493458daa140b71ad736eed7c",
+    "calib.txt": "622083732c03a25a1ed1eb01e254de7f1c727186d7978ff55b1ae33e4fb61a44"
+  },
+  "Umbrella-perfect": {
+    "im0.png": "b9534d24c35bb7e4f26e12a1edc5e706ad4017beeb748138b76a8314dd2b1a4f",
+    "im1.png": "a43ceca87eb31d7aef5f116b4ed1f4eed49da6169fe82d8312d1a12669e0f5b4",
+    "calib.txt": "6ac7478cbcd42ae6a5822c3fbe5884c7d1046fc73cbfeed8d887da16cb1dd67c"
+  },
+  "Vintage-perfect": {
+    "im0.png": "c724d85b05ce9f9571ae2eb691b6848a86fc8bfa070059ff742b368eed53a1f7",
+    "im1.png": "15629709c80c3e32f187e2c83791d0f0f860b844fb8c31f126f2062ca5a989ed",
+    "calib.txt": "6d4804abc7c3b310a6e73220bb5b911c5dc43a747aa7c0daf2f6e1a8741ceab8"
+  }
+}

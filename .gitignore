@@ -164,3 +164,9 @@ cython_debug/
 .DS_STORE
 *.pt
 .aider*
+
+/models/
+/datasets/
+/runs/
+!experiments/da3_full/checkpoints/learned-frozen.pt
+!experiments/da3_full/checkpoints/learned-tuned.pt

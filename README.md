@@ -1,3 +1,9 @@
+# ACV — SHARP with Depth Anything 3
+
+This branch replaces the depth network in SHARP with DA3METRIC-LARGE and learns a second depth layer from RGB, DA3 depth and DA3 features. The Gaussian decoder uses adapted DA3 features. Both trained variants and the 23-scene Middlebury comparison are available in [the experiment guide](experiments/da3_full/README.md).
+
+The DA3 entry point is `python experiments/da3_full/predict.py`. The upstream documentation below describes the original SHARP commands.
+
 # Sharp Monocular View Synthesis in Less Than a Second
 
 [![Project Page](https://img.shields.io/badge/Project-Page-green)](https://apple.github.io/ml-sharp/)
